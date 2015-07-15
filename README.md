@@ -17,3 +17,11 @@ RedMeans groups the trials on a single male together to avoid artificial inflati
 GreenMeans does the same as RedMeans, but for the green data.
 
 scripts: This will contain all R scripts that are used to analyze the data. They will be named by what they are doing (broadly), the date of creation, and the initials of the creator. Pull requests are expected to update the “Last Modified” section in the script or will be rejected.
+
+**Contributors**
+
+[Jared Brewer](http://jaredbrewer.me), Undergraduate at Transylvania University
+
+Alice Boos, Undergraduate at Transylvania University
+
+Dr. James Wagner, PhD, Professor and Chair of Biology at Transylvania University
